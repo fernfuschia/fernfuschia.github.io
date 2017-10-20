@@ -11,4 +11,16 @@ css and text decorations like <i>italica</i>.
 <p> This is a block quote. Just to see what it looks like.</p>
 </blockquote>
 
+<pre><code class="language-css">body {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+}
+
+.box {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  border-radius: 10px;
+}</code></pre>
+
 
