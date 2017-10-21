@@ -31,13 +31,13 @@ p {
 footer {
     position: absolute;
   right: 0;
-  bottom: 0;
+  bottom: 50px;
   left: 0;
   padding: 1rem;
   background-color: #353a42;
     color: #dbdde0;
   text-align: center;
-    min-height: 15%;
+    min-height: 50px;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
