@@ -34,8 +34,10 @@ footer {
   bottom: 0;
   left: 0;
   padding: 1rem;
-  background-color: #efefef;
+  background-color: #353a42;
+    color: #dbdde0;
   text-align: center;
+    min-height: 15%;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
