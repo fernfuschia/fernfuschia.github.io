@@ -34,4 +34,10 @@ date: 2017-10-27
     <td>LLLs are not as flexible.</td>
   </tr>
 </table>
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
  
