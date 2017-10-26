@@ -61,3 +61,17 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+table {
+	font-family: 'Open Sans';
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
+th {
+	text-decoration: underline;
+	font-size: 1.5em;
+}
