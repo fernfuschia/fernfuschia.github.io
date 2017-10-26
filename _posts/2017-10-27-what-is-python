@@ -1,0 +1,28 @@
+---
+layout: post
+title: "What is Python?"
+date: 2017-10-27
+---
+ One of the most widely taught programming languages is Python. Python is a <b>high-level computer language</b>. There are also 
+ such things as <b>low-level computer languages</b> (aka. machine languages / assembly languages). Below is a breif comparison 
+ of the two.
+ 
+ <table style="width:100%">
+  <tr>
+    <th>High-level computer languages</th>
+    <th>Low-level computer languages</th> 
+  </tr>
+  <tr>
+    <td>Platform independant, able to run on different hardware</td>
+    <td>Platform dependant, must run on the same hardware with the same configuration</td> 
+  </tr>
+  <tr>
+    <td>Run slower </td>
+    <td>Run faster as they have less functions, classes, keywords etc and do not need to convert</td> 
+  </tr>
+  <tr>
+    <td>Easy to write, read and understand.</td>
+    <td>Use either binary or assembly language, making it much harder to write read or understand.</td>
+  </tr>
+</table>
+ 
