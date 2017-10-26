@@ -9,8 +9,8 @@ date: 2017-10-27
  
  <table style="width:100%">
   <tr>
-    <th>High-level computer languages</th>
-    <th>Low-level computer languages</th> 
+    <th>High-level computer languages (HLL)</th>
+    <th>Low-level computer languages (LLL)</th> 
   </tr>
   <tr>
     <td>Platform independant, able to run on different hardware</td>
@@ -23,6 +23,15 @@ date: 2017-10-27
   <tr>
     <td>Easy to write, read and understand.</td>
     <td>Use either binary or assembly language, making it much harder to write read or understand.</td>
+  </tr>
+  <tr>
+    <td>HLLs use compilers or interpreters.</td>
+    <td>Binary does not need translation as it is already machine code, however
+    assembly language needs an assembler to transate to binary.</td>
+  </tr>
+  <tr>
+    <td>HLLs are incredibly flexible with libraries, keywords, functions etc.</td>
+    <td>LLLs are not as flexible.</td>
   </tr>
 </table>
  
