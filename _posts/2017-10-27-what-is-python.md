@@ -9,8 +9,8 @@ date: 2017-10-27
  
  <table style="width:100%">
   <tr>
-    <th>High-level computer languages (HLL)</th>
-    <th>Low-level computer languages (LLL)</th> 
+    <th width="50%">High-level computer languages (HLL)</th>
+    <th width="50%">Low-level computer languages (LLL)</th> 
   </tr>
   <tr>
     <td>Platform independant, able to run on different hardware</td>
