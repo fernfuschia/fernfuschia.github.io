@@ -40,3 +40,5 @@ For a more indepth description of HLLs and LLLs, please see this blog post.
 Almost all programs are writtin in HLLs. There are two ways that computers can process 
 HLLs and these are <b>interpreters</b> and <b>compilers</b>. Python can be both interpreted
 and compiled.
+
+An <b>interpreter</b> is 
