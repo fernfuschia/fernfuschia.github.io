@@ -65,14 +65,13 @@ ul.posts li {
 th, td {
 	font-family: 'Open Sans';
 	padding: 15px;
+	min-height: 10%;
     	text-align: center;
 }
 
 th {
-    background-color: #42f4d9;
-    color: white;
 }
 
 tbody tr:nth-child(odd) {
-   background-color: #ccc;
+   background-color: #c2eae9;
 }
