@@ -2,6 +2,32 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+nav ul, footer ul {
+    font-family: 'Open Sans', sans-serif;
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav.main-nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	float: right;
+}
+
+nav.main-nav li,
+nav.main-nav a {
+	display: inline-block;
+}
+
+nav.main-nav li a {
+	padding: 10px;
+}
 
 a {
     text-decoration: none;
